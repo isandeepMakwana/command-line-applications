@@ -1,4 +1,4 @@
-#`Python projects`
+`Python projects`
 Creates a small projects for Beginners 
 
   ##1
